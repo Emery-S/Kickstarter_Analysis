@@ -1,4 +1,4 @@
-# Kickstarting Analysis
+# Kickstarer Analysis
 
 ## Overview of Project
 
