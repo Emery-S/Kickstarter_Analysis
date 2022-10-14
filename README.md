@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose 
-    The purpose of this analysis is to provide information on the launch of different theater campaigns specifically in relation to plays. This includes their subsequent success or failure based on producion goals and timing.
+    The purpose of this analysis is to provide information on the launch of different theater campaigns specifically in relation to plays. This includes their subsequent success or failure based on producion goals and timing. This information may be utilized in the future by those looking to launch a successful campaign.
 
 ## Analysis and Challenges
 
